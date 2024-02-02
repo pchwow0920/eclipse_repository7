@@ -9,6 +9,7 @@ public class KostaGit {
 		System.out.println("KostaGit5");
 		System.out.println("KostaGit6");
 		System.out.println("KostaGit7");
+		System.out.println("KostaGit8");
 	}
 
 }
